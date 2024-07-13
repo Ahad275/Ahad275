@@ -37,8 +37,7 @@
 
 <img height="180" src="https://github-profile-trophy.vercel.app/?username=Ahad275&column=8&theme=algolia&no-frame=true"/>
 
-### 🐍 Watch Snake eating my contribution:
-![Snake](https://github.com/Ahad275/Ahad275/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 🤝 Connect with me:
 
