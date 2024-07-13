@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
 **TECHNOLOGIES I WORK WITH**
+
+
 ![c++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=blue)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
